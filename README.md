@@ -1,4 +1,4 @@
 # SccPractical
 
 This is GGbond
-HIIIIIIII
+HIIIIIIIIgg
